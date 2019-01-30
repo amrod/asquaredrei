@@ -1,8 +1,8 @@
 # Site settings
-title:
+title: A-Squared Investments
 email:
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "asquaredrei" # the subpath of your site, e.g. /blog/
+baseurl: "/asquaredrei" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username:
@@ -10,3 +10,6 @@ github_username:
 
 # Build settings
 markdown: kramdown
+
+collections:
+  - portfolio
